@@ -1,0 +1,38 @@
+{
+  "id": "7103e276-e101-4c8c-80e4-2bf7ad05d03d",
+  "title": "ONS Explore Local Statistics (ons_explore)",
+  "topic": "data-sources",
+  "description": "Source, tables, refresh flight and caveats for the ons_explore database",
+  "version": 1,
+  "access": "organization",
+  "references": [
+    {
+      "type": "catalog",
+      "url": "md:ons_explore"
+    },
+    {
+      "type": "catalog",
+      "url": "md:ons_explore",
+      "schema": "main",
+      "table": "fact_ons_data"
+    },
+    {
+      "type": "catalog",
+      "url": "md:ons_explore",
+      "schema": "main",
+      "table": "dim_ons_data"
+    },
+    {
+      "type": "catalog",
+      "url": "md:ons_explore",
+      "schema": "main",
+      "view": "export_ons_values"
+    },
+    {
+      "type": "catalog",
+      "url": "md:ons_explore",
+      "schema": "main",
+      "view": "export_ons_indicators"
+    }
+  ]
+}
