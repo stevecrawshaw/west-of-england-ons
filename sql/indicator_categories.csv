@@ -1,0 +1,100 @@
+indicator,category
+"Total population",Population and economy
+"Population by age and sex",Population and economy
+"Population density",Population and economy
+"Five-year population change",Population and economy
+"Median age",Population and economy
+"Population aged 0 to 15",Population and economy
+"Population aged 16 to 64",Population and economy
+"Population aged 65 and over",Population and economy
+"Economic inactivity rate (Great Britain)",Population and economy
+"Employment rate (Great Britain)",Population and economy
+"Modelled unemployment rate",Population and economy
+"Claimant Count",Population and economy
+"Job density",Population and economy
+"Gross disposable household income per head",Population and economy
+"Gross median weekly pay",Population and economy
+"Children in relative poverty before housing costs",Place and environment
+"Children in relative poverty after housing costs",Place and environment
+"Fuel poverty (England)",Place and environment
+"Gross value added per hour worked",Population and economy
+"Gross value added per job filled",Population and economy
+"Gross domestic product per head at current market prices",Population and economy
+"Gross domestic product per head in chained volume measures",Population and economy
+"Active businesses",Population and economy
+"Business births",Population and economy
+"Business deaths",Population and economy
+"High growth businesses",Population and economy
+"One-year business survival rate",Population and economy
+"Two-year business survival rate",Population and economy
+"Three-year business survival rate",Population and economy
+"Four-year business survival rate",Population and economy
+"Five-year business survival rate",Population and economy
+"Food outlets",Place and environment
+"Net additions to the housing stock (England)",Place and environment
+"Average house price",Place and environment
+"Housing affordability ratio (residence-based)",Place and environment
+"First-time buyer mortgage sales",Place and environment
+"Average length of short-term let stay",Place and environment
+"Number of guest nights at a short-term let",Place and environment
+"Further education and skills learner achievements",Education and skills
+"Further education and skills participation",Education and skills
+"GCSEs in English and Maths",Education and skills
+"Level 3 or above qualifications (Great Britain)",Education and skills
+"Pupils at the end of key stage 2 meeting the expected standard in reading, writing and maths (combined)",Education and skills
+"No qualifications",Education and skills
+"Communication and language skills by end of early years foundation stage",Education and skills
+"Literacy skills by end of early years foundation stage",Education and skills
+"Maths skills by end of early years foundation stage",Education and skills
+"Persistent absences for all pupils",Education and skills
+"Persistent absences for pupils eligible for free school meals",Education and skills
+"Persistent absences for pupils looked after by local authorities",Education and skills
+"Apprenticeship achievements (England)",Education and skills
+"Apprenticeship starts (England)",Education and skills
+"Cigarette smokers",Health and wellbeing
+"Healthy weight prevalence in children at reception age",Health and wellbeing
+"Healthy weight prevalence in children at Year 6 age",Health and wellbeing
+"Obesity prevalence in children at reception age",Health and wellbeing
+"Obesity prevalence in children at Year 6 age",Health and wellbeing
+"Overweight prevalence in children at reception age",Health and wellbeing
+"Overweight prevalence in children at Year 6 age",Health and wellbeing
+"Underweight prevalence in children at reception age",Health and wellbeing
+"Underweight prevalence in children at Year 6 age",Health and wellbeing
+"Adult obesity prevalence",Health and wellbeing
+"Cancer diagnosis at stage 1 and 2",Health and wellbeing
+"Preventable cardiovascular mortality (England)",Health and wellbeing
+"Female healthy life expectancy",Health and wellbeing
+"Male healthy life expectancy",Health and wellbeing
+"Anxiety",Health and wellbeing
+"Feeling life is worthwhile",Health and wellbeing
+"Happiness",Health and wellbeing
+"Life satisfaction",Health and wellbeing
+"Domestic electricity consumption",Place and environment
+"Domestic gas consumption",Place and environment
+"Greenhouse gas emissions",Place and environment
+"Air pollution regulating",Place and environment
+"Greenhouse gas regulating",Place and environment
+"Urban heat regulating",Place and environment
+"Gigabit capable broadband",Place and environment
+"4G coverage",Place and environment
+"5G coverage",Place and environment
+"Premises below 30Mbps",Place and environment
+"Motor vehicle flow",Place and environment
+"Public electric vehicle chargers",Place and environment
+"Travel time to employment centre by bicycle",Place and environment
+"Travel time to employment centre by car",Place and environment
+"Travel time to employment centre by public transport and walking",Place and environment
+"Supermarkets",Place and environment
+"Sports facilities",Culture and leisure
+"Museums",Culture and leisure
+"Residents within a 30 minute walk of their nearest library",Place and environment
+"Residents within a 30 minute walk of their nearest railway station",Place and environment
+"Engaged with the arts",Culture and leisure
+"Visited a heritage site",Culture and leisure
+"Visited a museum or gallery",Culture and leisure
+"Visited a public library",Culture and leisure
+"Superfast broadband",Place and environment
+"Ultrafast broadband",Place and environment
+"Premises with access to full fibre",Place and environment
+"Male life expectancy",Health and wellbeing
+"Female life expectancy",Health and wellbeing
